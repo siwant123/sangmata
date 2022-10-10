@@ -1,1 +1,1 @@
-worker: python3 sangmata.py
+web: python3 sangmata.py
