@@ -3,8 +3,8 @@
   "description": "A simple Telegram Bot Look Like SangMeta ",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
-    "Sangmetainfo_bot",
-    "Sangmata Bot"
+    "Matasemut_bot",
+    "Matasemut_bot"
   ],
   "repository": "https://github.com/aviskumar/sangmata/",
   "env": {
@@ -13,8 +13,8 @@
       "value": ""
     },
     "OWNER": {
-      "description": "1935344311",
-      "value": "1935344311"
+      "description": "5025471868",
+      "value": "5025471868"
     },
     "BOT_TOKEN": {
       "description": "Telegram Bot Token",
